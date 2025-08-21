@@ -1,1 +1,1 @@
-# mbastrategyconsultant.github.io
+# Samuel Berrios, Jr., MBA, PMP
