@@ -4,7 +4,7 @@ https://www.linkedin.com/in/mbastrategyconsultant
 
 https://mbastrategyconsultant.github.io
 
-Samuel.Berrios.Jr.MBA.PMP@gmail.com 
+Email: Samuel.Berrios.Jr.MBA.PMP@gmail.com 
 
 210.363.5573 
 
