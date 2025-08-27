@@ -1,6 +1,6 @@
 Samuel Berrios, Jr., MBA, PMP
 
-Linkedin: https://www.linkedin.com/in/mbastrategyconsultant
+linkedin.com/in/mbastrategyconsultant
 
 Github: https://mbastrategyconsultant.github.io
 
