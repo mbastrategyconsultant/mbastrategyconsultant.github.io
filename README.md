@@ -22,7 +22,7 @@ Professional Work Experience
 
 Consumer Financial Protection Bureau (CFPB)						       Jan 2017 to Present
 
-Chief Information Security Officer (CISO) Cybersecurity Operations (CyberOps)	              Apr 2022 to Present
+- Chief Information Security Officer (CISO) Cybersecurity Operations (CyberOps)	              Apr 2022 to Present
 
 Cybersecurity Operations Specialist 	Washington, DC
   
@@ -34,10 +34,15 @@ Support the Chief Information Security Officer (CISO) Cybersecurity Operations (
 * Trained in general cybersecurity defense analysis, vulnerability management and incident response processes.
 
 Supervision, Enforcement and Fair Lending (SEFL)	 Jan 2017 to Apr 2022
-SEFL Front Office (FO)	Mar 2021 to Apr 2022
-SEFL Office of Supervision Examinations (OSE) Headquarters (HQ)	Jan 2019 to Mar 2021
-SEFL Office of Fair Lending & Equal Opportunity (OFLEO) Front Office (FO)	Jan 2017 to Jan 2019
+
+- SEFL Front Office (FO)	Mar 2021 to Apr 2022
+
+- SEFL Office of Supervision Examinations (OSE) Headquarters (HQ)	Jan 2019 to Mar 2021
+
+- SEFL Office of Fair Lending & Equal Opportunity (OFLEO) Front Office (FO)	Jan 2017 to Jan 2019
+
 Management and Program Analyst	          Washington, DC
+
 Supported the Supervision, Enforcement and Fair Lending (SEFL) leadership by leading and supporting ongoing core projects and initiatives to strengthen operational & organizational performance and information systems access compliance.
 * Managed transmission of all SEFL-authored public-facing documents to various internal Bureau staff for their review in order to ensure the consistency, accuracy, and transparency of Bureau s message.
 * Lead from project baseline and scoping to closeout various concurrent core enterprise-wide business, financial and technology portfolio of programs, projects, products, and processes to include operational process improvement, business intelligence, data analytics, organizational development, technology application development and workforce sustainment to achieve strategic and business goals and outcomes.
@@ -96,5 +101,8 @@ Education
   * University of Texas System Consortium Online Master of Business Administration (MBA)	2004
   * Bachelor of Business Administration (BBA) in Accounting	2001
   * Bachelor of Business Administration (BBA) in Finance	2001
-  * Bachelor of Business Administration (BBA) in MGT with International Business Concentration	2000
+  * Bachelor of Business Administration (BBA) in MGT with Concentration in International Business 	2000
+    
+ 
+    
 
