@@ -2,9 +2,9 @@ Samuel Berrios, Jr., MBA, PMP
 
 linkedin.com/in/mbastrategyconsultant
 
-Github: https://mbastrategyconsultant.github.io
+mbastrategyconsultant.github.io
 
-Email: Samuel.Berrios.Jr.MBA.PMP@gmail.com 
+Samuel.Berrios.Jr.MBA.PMP@gmail.com 
 
 210.363.5573 
 
