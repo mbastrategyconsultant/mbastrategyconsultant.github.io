@@ -1,13 +1,3 @@
-Samuel Berrios, Jr., MBA, PMP
-
-linkedin.com/in/mbastrategyconsultant
-
-mbastrategyconsultant.github.io
-
-Samuel.Berrios.Jr.MBA.PMP@gmail.com 
-
-210.363.5573 
-
 Career Profile 
 
 Seasoned cybersecurity operations professional skilled at leading and supporting engagements to optimize operational performance and to maximize organizational productivity.
